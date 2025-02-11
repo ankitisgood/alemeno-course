@@ -1,8 +1,36 @@
-# React + Vite
+# Course Management Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and efficient course management application built using React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Run the Application
+
+### Prerequisites
+
+Ensure you have the following installed:
+- **Node.js** (LTS version recommended)
+- **npm** or **yarn** (comes with Node.js)
+- **Git** (to clone the repository)
+
+### Steps to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ankitisgood/alemeno-course.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd alemeno-course
+
+3. Install the dependencies:
+   ```bash
+   npm install
+
+4. Start the development server:
+    ```bash
+    npm start or npm run dev
+
+5. Open your browser and navigate to:
+   ```bash
+   http://localhost:3000 0r 5173
